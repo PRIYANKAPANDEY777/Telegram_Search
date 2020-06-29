@@ -1,4 +1,4 @@
- #Tested with Telethon
+# Tested with Telethon
 
 import configparser
 from telethon import TelegramClient
